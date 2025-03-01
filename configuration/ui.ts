@@ -1,6 +1,6 @@
 import { AI_NAME, OWNER_NAME } from "@/configuration/identity";
 
-export const CHAT_HEADER: string = `Matt's AI Recruiting Butler`;
+export const CHAT_HEADER: string = `Matt's AI Assistant`;
 export const MESSAGE_PLACEHOLDER: string = `[MESSAGE PLACEHOLDER]`;
 export const FOOTER_MESSAGE: string = `Copyright 2025 Matt Leavitt`;
 export const CLEAR_BUTTON_TEXT: string = `Clear Chat`;
